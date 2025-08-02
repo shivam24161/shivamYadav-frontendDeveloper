@@ -1,0 +1,26 @@
+:root {
+    --bg-color: #fff;
+    --text-color: #000;
+    --font-family: 'Arial', sans-serif;
+}
+
+/* Theme 1: Minimal */
+[data-theme='theme1'] {
+    --bg-color: #ffffff;
+    --text-color: #222222;
+    --font-family: 'Helvetica', sans-serif;
+}
+
+/* Theme 2: Dark + Serif */
+[data-theme='theme2'] {
+    --bg-color: #121212;
+    --text-color: #00ff6a;
+    --font-family: 'Georgia', serif;
+}
+
+/* Theme 3: Colorful + Pacifico */
+[data-theme='theme3'] {
+    --bg-color: #ffe8f0;
+    --text-color: #222;
+    --font-family: 'Pacifico', cursive;
+}
