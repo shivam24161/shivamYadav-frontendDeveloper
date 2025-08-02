@@ -42,7 +42,7 @@ src/
 ├── App.tsx # Main app component
 ├── main.tsx # App entry with ThemeProvider & Router
 └── vite-env.d.ts # TypeScript types
-
+```
 
 ---
 
