@@ -31,6 +31,7 @@ This is a modern and responsive e-commerce frontend built using **React**, **Vit
 ---
 
 ## 📁 Folder Structure
+```bash
 src/
 │
 ├── assets/ # Images, icons, etc.
